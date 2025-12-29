@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Research
-subtitle: "Work in progress and policy"
+subtitle: ""
 ---
 
 <h2>Work in progress</h2>
@@ -28,25 +28,25 @@ subtitle: "Work in progress and policy"
 <ul>
   <li>
     Aranzana Moreno, C. and Santero Sánchez, R. (2021).<br/>
-    <strong>Public policies and female entrepreneurship in rural areas. A case study: Alto Bernesga Biosphere Reserve.</strong><br/>
+    Public policies and female entrepreneurship in rural areas. A case study: Alto Bernesga Biosphere Reserve.<br/>
     <em>Studies of Applied Economics</em>, 39(3).
   </li>
 
   <li>
     Collaboration in: International Finance Corporation &amp; World Trade Organization (2025).<br/>
-    <strong>Trade finance in Central America and Mexico: A study of Guatemala, Honduras, and Mexico.</strong><br/>
+    Trade finance in Central America and Mexico: A study of Guatemala, Honduras, and Mexico.<br/>
     Report.
   </li>
 
   <li>
     Collaboration in: Farnault, A. and K. Sarr (2024).<br/>
-    <strong>Diversifying sources of finance for water in Africa.</strong><br/>
+    Diversifying sources of finance for water in Africa.<br/>
     <em>OECD Environment Working Papers</em>, No. 248.
   </li>
 
   <li>
     Collaboration in: De Lucio, J. (2021).<br/>
-    <strong>The temporary disconnection of employment and companies.</strong><br/>
+    The temporary disconnection of employment and companies.<br/>
     In <em>España 2020. Un balance</em>, Nº 172/173 Extra.
   </li>
 </ul>
