@@ -246,17 +246,23 @@
 
       <!-- MAIN CONTENT -->
       <main class="main">
-        <nav class="topbar">
-          {% for item in site.nav %}
-            {% assign current = page.url | replace: "index.html", "" %}
-            {% assign target = item.url %}
-            {% if current == target %}
-              <a class="pill pillActive" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-            {% else %}
-              <a class="pill" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-            {% endif %}
-          {% endfor %}
-        </nav>
+       <nav class="topbar">
+        {% assign current = page.url | replace: "index.html", "" | replace: ".html", "" %}
+        {% if current != "/" %}
+          {% assign current = current | remove: "/" %}
+          {% assign current = "/" | append: current %}
+        {% endif %}
+      
+        {% for item in site.nav %}
+          {% assign target = item.url | replace: ".html", "" %}
+      
+          {% if current == target %}
+            <a class="pill pillActive" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+          {% else %}
+            <a class="pill" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </nav>
 
         {% if page.title %}
           <div class="pageTitle">{{ page.title }}</div>
