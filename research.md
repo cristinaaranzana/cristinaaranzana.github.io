@@ -1,26 +1,52 @@
 ---
 layout: default
 title: Research
+subtitle: "Work in progress and policy"
 ---
 
-## Work in progress
+<h2>Work in progress</h2>
 
-**The Political Legacy of Displacement**, with Luc Paluskiewicz
+<ul>
+  <li>
+    <strong>The Political Legacy of Displacement</strong><br/>
+    with Luc Paluskiewicz
+  </li>
 
-**Revisiting the welfare magnet hypothesis: healthcare access for irregular immigrants**, with Javier Vázquez-Grenno and Anastasia Terskaya
+  <li>
+    <strong>Revisiting the welfare magnet hypothesis: healthcare access for irregular immigrants</strong><br/>
+    with Javier Vázquez-Grenno and Anastasia Terskaya
+  </li>
 
-**Public punishment and gender inequality**, with Léa Marchal
+  <li>
+    <strong>Public punishment and gender inequality</strong><br/>
+    with Léa Marchal
+  </li>
+</ul>
 
-## Policy Briefs / Reports
+<h2>Policy briefs and reports</h2>
 
-Aranzana Moreno, C. and Santero Sánchez, R. (2021). Public policies and female entrepreneurship in rural areas. A case study: Alto Bernesga Biosphere Reserve. *Studies of Applied Economics*, 39(3).  
-<a href="https://doi.org/10.25115/eea.v39i3.3875" target="_blank" rel="noopener noreferrer">https://doi.org/10.25115/eea.v39i3.3875</a>
+<ul>
+  <li>
+    Aranzana Moreno, C. and Santero Sánchez, R. (2021).<br/>
+    <strong>Public policies and female entrepreneurship in rural areas. A case study: Alto Bernesga Biosphere Reserve.</strong><br/>
+    <em>Studies of Applied Economics</em>, 39(3).
+  </li>
 
-Collaboration in: International Finance Corporation & World Trade Organization. (2025). Trade finance in Central America and Mexico: A study of Guatemala, Honduras, and Mexico [Report].  
-<a href="https://www.ifc.org/content/dam/ifc/doc/2025/trade-finance-in-central-america-and-mexico.pdf" target="_blank" rel="noopener noreferrer">PDF</a>
+  <li>
+    Collaboration in: International Finance Corporation &amp; World Trade Organization (2025).<br/>
+    <strong>Trade finance in Central America and Mexico: A study of Guatemala, Honduras, and Mexico.</strong><br/>
+    Report.
+  </li>
 
-Collaboration in: Farnault, A. and K. Sarr (2024). Diversifying sources of finance for water in Africa. *OECD Environment Working Papers*, No. 248, OECD Publishing, Paris.  
-<a href="https://www.oecd.org/en/publications/diversifying-sources-of-finance-for-water-in-africa_114791fd-en.html" target="_blank" rel="noopener noreferrer">Link</a>
+  <li>
+    Collaboration in: Farnault, A. and K. Sarr (2024).<br/>
+    <strong>Diversifying sources of finance for water in Africa.</strong><br/>
+    <em>OECD Environment Working Papers</em>, No. 248.
+  </li>
 
-Collaboration in: De Lucio, J. (2021). The temporary disconnection of employment and companies. In Madrid Association of Economists (Ed.), *España 2020. Un balance* Nº 172/173 Extra.  
-<a href="https://privado.cemad.es/revistas/online/Revistas/Economistas%20Extra%20Num%20172-173.pdf/189" target="_blank" rel="noopener noreferrer">Link</a>
+  <li>
+    Collaboration in: De Lucio, J. (2021).<br/>
+    <strong>The temporary disconnection of employment and companies.</strong><br/>
+    In <em>España 2020. Un balance</em>, Nº 172/173 Extra.
+  </li>
+</ul>
