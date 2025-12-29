@@ -1,5 +1,5 @@
 title: "Cristina Aranzana Moreno"
-description: "PhD Candidate in Economics at University of Barcelona and an affiliated researcher to the Institut d'Economia de Barcelona (IEB)"
+description: "PhD Candidate in Economics at University of Barcelona"
 email: "c.aranzana@ub.edu"
 
 baseurl: ""
@@ -12,5 +12,3 @@ nav:
     url: "/research"
   - title: "CV"
     url: "/cv"
-  - title: "Teaching"
-    url: "/teaching"
