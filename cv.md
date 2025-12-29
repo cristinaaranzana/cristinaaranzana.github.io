@@ -1,10 +1,11 @@
 ---
 layout: default
 title: CV
+subtitle: ""
 ---
 
 <p>
-  You can find my CV here:
-  <a href="./attach/cv.pdf"><strong>PDF</strong></a>
+  <a href="./attach/cv.pdf"><strong>Download CV (PDF)</strong></a>
 </p>
 
+<embed src="./attach/cv.pdf" type="application/pdf" width="100%" height="900px" />
