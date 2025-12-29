@@ -41,7 +41,7 @@ title: Home
     </p>
 
     <p>
-      X (Twitter):
+      X:
       <a href="https://x.com/c_aranzana" target="_blank" rel="noopener noreferrer">
         https://x.com/c_aranzana
       </a>
