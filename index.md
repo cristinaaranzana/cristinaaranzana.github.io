@@ -6,7 +6,7 @@ title: Home
 <div class="grid">
 
   <div>
-    <img src="./attach/profile.jpg" alt="Profile photo" />
+    <img src="./attach/profile.JPG" alt="Profile photo" />
   </div>
 
   <div>
