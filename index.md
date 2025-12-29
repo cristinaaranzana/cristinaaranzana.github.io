@@ -7,8 +7,8 @@ subtitle: "PhD Candidate in Economics"
 <h2>About me</h2>
 
 <p>
-  I am a PhD candidate in Economics at the <strong>University of Barcelona</strong>
-  and an affiliated researcher at the <strong>Institut d’Economia de Barcelona (IEB)</strong>.
+  I am a PhD candidate in Economics at the University of Barcelona
+  and an affiliated researcher at the Institut d’Economia de Barcelona (IEB).
 </p>
 
 <p>
