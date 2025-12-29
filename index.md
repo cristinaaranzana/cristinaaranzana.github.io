@@ -12,8 +12,8 @@ subtitle: "PhD Candidate in Economics"
 </p>
 
 <p>
-  My research interests include <strong>migration</strong>, <strong>labour economics</strong>, and
-  <strong>political economy</strong>, with a <strong>gender perspective</strong>.
+  My research interests include <strong>migration</strong>, <strong>labour</strong>, and
+  <strong>political economics</strong>, with a <strong>gender perspective</strong>.
 </p>
 
 <p>
