@@ -1,9 +1,12 @@
 title: "Cristina Aranzana Moreno"
-description: "PhD Candidate in Economics at University of Barcelona"
+description: "PhD Candidate in Economics"
 email: "c.aranzana@ub.edu"
 
 baseurl: ""
 url: "https://cristinaaranzana.github.io"
+
+# optional line under email in the sidebar
+affiliation: "University of Barcelona · Institut d’Economia de Barcelona (IEB)"
 
 nav:
   - title: "Home"
@@ -12,3 +15,8 @@ nav:
     url: "/research"
   - title: "CV"
     url: "/cv"
+
+social:
+  x: "https://x.com/c_aranzana"
+  bluesky: "https://bsky.app/profile/aranzana.bsky.social"
+  Linkedin: "https://www.linkedin.com/in/cristinaaranzana"
