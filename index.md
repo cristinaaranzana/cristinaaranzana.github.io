@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Cristina Aranzana
 subtitle: "PhD Candidate in Economics"
 ---
 
