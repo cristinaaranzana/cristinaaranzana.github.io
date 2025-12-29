@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title }} · {{ site.title }}</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;max-width:980px;margin:0 auto;padding:24px;line-height:1.55}
+    header{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:24px}
+    nav a{margin-right:14px;text-decoration:none}
+    nav a:hover{text-decoration:underline}
+    .muted{opacity:.75}
+    .grid{display:grid;grid-template-columns:1fr 240px;gap:28px;align-items:start}
+    img{max-width:100%;border-radius:10px}
+    @media (max-width:760px){.grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <div style="font-size:22px;font-weight:700">{{ site.title }}</div>
+      <div class="muted">{{ site.description }}</div>
+    </div>
+    <nav>
+      {% for item in site.nav %}
+        <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="muted" style="margin-top:40px">
+    {{ site.email }}
+  </footer>
+</body>
+</html>
