@@ -30,7 +30,7 @@ title: Home
 
     <p>
       You can find my
-      <a href="https://drive.google.com/file/d/ID_DEL_ARCHIVO/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+      <a href="https://drive.google.com/file/d/10_3G8SieK-YVBFEK_FEvLGePDbYOth3j/view?usp=sharing" target="_blank" rel="noopener noreferrer">
         <strong>CV</strong>
       </a>
       and learn more about my
