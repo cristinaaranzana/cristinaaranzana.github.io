@@ -7,8 +7,16 @@ subtitle: "PhD Candidate in Economics"
 <h2>About me</h2>
 
 <p>
-  I am a PhD candidate in Economics at the University of Barcelona
-  and an affiliated researcher at the Institut d’Economia de Barcelona (IEB).
+  I am a PhD candidate in Economics at the
+  <a href="https://www.ub.edu/school-economics/phd_students/aranzana-moreno-cristina/"
+     target="_blank" rel="noopener noreferrer">
+    University of Barcelona
+  </a>
+  and an affiliated researcher at the
+  <a href="https://ieb.ub.edu/researcher/aranzana-moreno-cristina/"
+     target="_blank" rel="noopener noreferrer">
+    Institut d’Economia de Barcelona (IEB)
+  </a>.
 </p>
 
 <p>
