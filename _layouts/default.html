@@ -230,20 +230,15 @@
 
 <main class="main">
 <nav class="topbar">
-  {% assign current = page.url | replace:'index.html','' | replace:'.html','' %}
-  {% if current != '/' %}
-    {% assign current = '/' | append: current | remove:'//' %}
-  {% endif %}
-
   {% for item in site.nav %}
-    {% assign target = item.url %}
-    {% if current == target %}
+    {% if page.url == item.url or page.url contains item.url and item.url != "/" %}
       <a class="pill pillActive" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
     {% else %}
       <a class="pill" href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
     {% endif %}
   {% endfor %}
 </nav>
+
 
 {% if page.title %}
   <div class="pageTitle">{{ page.title }}</div>
