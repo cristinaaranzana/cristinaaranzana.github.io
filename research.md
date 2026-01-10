@@ -7,11 +7,7 @@ subtitle: ""
 <h2>Work in progress</h2>
 
 <ul>
-  <li>
-    <strong>The Political Legacy of Displacement</strong><br/>
-    with Luc Paluskiewicz
-  </li>
-
+  
   <li>
     <strong>Revisiting the welfare magnet hypothesis: healthcare access for irregular immigrants</strong><br/>
     with Javier Vázquez-Grenno and Anastasia Terskaya
