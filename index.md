@@ -4,8 +4,6 @@ title: Cristina Aranzana
 subtitle: "PhD Candidate in Economics"
 ---
 
-<meta name="google-site-verification" content="4ipL8QuBaDmVWlWxJcMwzRM5rqsJlIRFrIqBVCqDKxM" />
-
 <h2>About me</h2>
 
 <p>
