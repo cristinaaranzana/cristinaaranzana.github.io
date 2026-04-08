@@ -8,8 +8,10 @@ subtitle: ""
 
 <ul>
   <li>
-    <strong>The Political Legacy of Displacement: Evidence from the Spanish Republican Exile</strong><br/>
-    with Luc Paluskiewicz
+    <strong>
+      The Political Legacy of Displacement: Evidence from the Spanish Republican Exile
+    </strong><br/>
+    with <a href="https://lucpaluskiewicz.github.io/" target="_blank">Luc Paluskiewicz</a>
   </li>
 </ul>
 
