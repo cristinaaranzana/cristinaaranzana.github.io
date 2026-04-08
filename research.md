@@ -4,6 +4,15 @@ title: Research
 subtitle: ""
 ---
 
+<h2>Working Papers</h2>
+
+<ul>
+  <li>
+    <strong>The Political Legacy of Displacement: Evidence from the Spanish Republican Exile</strong><br/>
+    with Luc Paluskiewicz
+  </li>
+</ul>
+
 <h2>Work in progress</h2>
 
 <ul>
