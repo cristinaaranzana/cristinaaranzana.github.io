@@ -9,7 +9,9 @@ subtitle: ""
 <ul>
   <li>
     <strong>
-      The Political Legacy of Displacement: Evidence from the Spanish Republican Exile
+      <a href="https://ieb.ub.edu/wp-content/uploads/2026/04/Doc2026-08_ok.pdf" target="_blank">
+        The Political Legacy of Displacement: Evidence from the Spanish Republican Exile
+      </a>
     </strong><br/>
     with <a href="https://lucpaluskiewicz.github.io/" target="_blank">Luc Paluskiewicz</a>
   </li>
