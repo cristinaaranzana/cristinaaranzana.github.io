@@ -19,13 +19,18 @@ subtitle: ""
   
   <li>
     <strong>Revisiting the welfare magnet hypothesis: healthcare access for irregular immigrants</strong><br/>
-    with Javier Vázquez-Grenno and Anastasia Terskaya
+    with 
+    <a href="https://sites.google.com/site/jvazquezgrenno/" target="_blank">Javier Vázquez-Grenno</a> 
+    and 
+    <a href="https://sites.google.com/site/anastasiaterskaya/" target="_blank">Anastasia Terskaya</a>
   </li>
 
   <li>
     <strong>Public punishment and gender inequality</strong><br/>
-    with Léa Marchal
+    with 
+    <a href="https://leamarchal.fr/" target="_blank">Léa Marchal</a>
   </li>
+
 </ul>
 
 <h2>Policy briefs and reports</h2>
