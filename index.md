@@ -8,7 +8,7 @@ subtitle: "PhD Candidate in Economics"
 
 <p>
   I am a PhD candidate in Economics at the
-  <a href="https://www.ub.edu/school-economics/phd_students/aranzana-moreno-cristina/"
+  <a href="https://www.ub.edu/school-economics/phd_students/aranzana-moreno-cristina/(https://www.ub.edu/school-economics/phd-student/cristina-aranzana-moreno/)"
      target="_blank" rel="noopener noreferrer">
     University of Barcelona
   </a>
