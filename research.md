@@ -9,7 +9,7 @@ subtitle: ""
 <ul>
   <li>
     <strong>
-      <a href="https://ieb.ub.edu/wp-content/uploads/2026/04/Doc2026-08_ok.pdf" target="_blank">
+      <a href="https://ieb.ub.edu/wp-content/uploads/2026/06/Doc2026-08_ok.pdf" target="_blank">
         The Political Legacy of Displacement: Evidence from the Spanish Republican Exile
       </a>
     </strong><br/>
