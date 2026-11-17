@@ -22,7 +22,7 @@ subtitle: ""
 <ul>
   
   <li>
-    <strong>Revisiting the welfare magnet hypothesis: healthcare access for irregular immigrants</strong><br/>
+    <strong>Trust the Evidence? Information and Support for Immigrant Regularization</strong><br/>
     with 
     <a href="https://sites.google.com/site/jvazquezgrenno/" target="_blank">Javier Vázquez-Grenno</a> 
     and 
